@@ -1,3 +1,9 @@
+# Purpose
+
+This repository aims to provide internal packages for 1Konto. Any changes made are distributed under the same license as the upstream quickfixn license.
+
+Please forward any bug reports to the main repository.
+
 [![QuickFIX/N][1]](http://quickfixn.org)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ccu2yp2coad3oam0?svg=true)](https://ci.appveyor.com/project/cbusbey/quickfixn-jib50)
